@@ -1075,7 +1075,7 @@ class _PortfolioPageState extends State<PortfolioPage> {
               const ActivityTile(
                 icon: Icons.email_outlined,
                 title: 'Email',
-                subtitle: 'challagundlacharvi',
+                subtitle: 'challagundlacharvi@gmail.com',
               ),
               const SizedBox(height: 20),
               const ActivityTile(
